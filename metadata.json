@@ -1,0 +1,6 @@
+{
+  "name": "EbdAaa Exchange",
+  "description": "Professional Android mobile financial application for EbdAaa Exchange (صرافة إبداع) - money transfer, currency exchange, live rates, beneficiaries, transfer tracking, and branches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

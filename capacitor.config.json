@@ -1,0 +1,9 @@
+{
+  "appId": "com.ebdaaa.exchange",
+  "appName": "EbdAaa Exchange",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
